@@ -17,7 +17,7 @@ ul li a p {
 
 /* 3er commit - Cambiar el color de la barra lateral */
 header.sidebar {
-  background-color: #EEEEEE;
+  background-color: #5e2424;
   width: 30%;
   background-size: cover;
   display: inline-block;
