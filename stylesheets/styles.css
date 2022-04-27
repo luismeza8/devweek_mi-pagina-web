@@ -1,0 +1,159 @@
+/* 1er commit - Cambiar el fondo de la pagina */
+body {
+  background: #161514;
+  font-size : 16px;
+}
+
+/* 2do commit - Cambiar el color de los textos y botones de las redes sociales */
+ul li a p {
+  color          : #FFFFFF;
+  background     : #E94016;
+  width          : 75%;
+  list-style-type: none;
+  padding        : .3em 1em .3em;
+  text-decoration: none;
+  font-size      : 13px;
+}
+
+/* 3er commit - Cambiar el color de la barra lateral */
+header.sidebar {
+  background-color: #EEEEEE;
+  width           : 30%;
+  background-size : cover;
+  display         : inline-block;
+  vertical-align  : top;
+  position        : absolute;
+  bottom          : 0;
+  top             : 0;
+}
+
+/* 4to commit - Cambiar el color la barra donde esta "TU CARRERA" */
+div.comunidad-autoria {
+  background: #000000;
+  padding   : 3% 0;
+  margin    : 12% 0;
+}
+
+/* 5to commit - Cambiar el color de tu nombre (Si es que es necesario) */
+h1 {
+  color         : #000000;
+  padding-bottom: 2em;
+  border-bottom : none;
+  font-size     : 16px;
+  margin        : 0;
+  padding       : 5px 0 .3em;
+  line-height   : 32px;
+  text-align    : center;
+}
+
+/* 5to commit - Cambiar el color de tu nombre (Si es que es necesario) */
+div.bloque p {
+  color      : #ffffff;
+  line-height: 1.9em;
+}
+
+/* 5to commit - Cambiar el color de texto de "TU CARRERA" (Si es que es necesario) */
+div.carrera p {
+  color: #ffffff
+}
+
+/* 5to commit - Cambiar el color de texto de "BIENVENIDO" y "PASATIEMPOS" (Si es que es necesario) */
+/*            - Tambien puedes cambiar de color la linea que esta debajo de dichos titulos */
+h3 {
+  border-bottom : 1px #4c00ff solid;
+  color         : #FFF7F7;
+  text-transform: uppercase;
+  font-size     : 13px;
+  line-height   : 32px;
+  margin-bottom : 2.5em;
+  padding-bottom: .5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Ya lo siguiente es irrelevante para el curso xd */
+/* Ya lo siguiente es irrelevante para el curso xd */
+/* Ya lo siguiente es irrelevante para el curso xd */
+
+div.sidebar_userimage img {
+  border-radius: 26px;
+  width        : 120px;
+  padding      : 7px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  margin: 20% 0 0% 0%;
+}
+
+ul li {
+  list-style: none;
+}
+
+ul li a {
+  text-decoration: none;
+}
+
+p {
+  text-align: center;
+}
+
+div.sidebar_userimage {
+  cursor           : pointer;
+  border-radius    : 80px;
+  background-repeat: no-repeat;
+  background-size  : cover;
+  margin           : 0% 35% 0;
+  padding          : 8% 0 0;
+  text-align       : center;
+}
+
+div.logo {
+  display   : inline-block;
+  width     : 30%;
+  text-align: center;
+  padding   : 3% 0 0;
+}
+
+div.logo img {
+  width        : 45px;
+  border-radius: 45px;
+  padding      : 0;
+  margin       : 0;
+}
+
+div.carrera {
+  display       : inline-block;
+  vertical-align: top;
+  padding       : 0;
+  margin        : 0% 33%;
+  font-size     : 15px;
+  text-align    : center;
+}
+
+div.layout-principal {
+  position  : absolute;
+  top       : 0;
+  right     : 0;
+  bottom    : 0;
+  overflow-x: auto;
+  width     : 55%;
+  padding   : 0% 6.5%;
+}
+
+div.bloque {
+  margin: 5% 0 0;
+}
