@@ -60,7 +60,7 @@ div.carrera p {
 /* 5to commit - Cambiar el color de texto de "BIENVENIDO" y "PASATIEMPOS" (Si es que es necesario) */
 /*            - Tambien puedes cambiar de color la linea que esta debajo de dichos titulos */
 h3 {
-  border-bottom: 1px #4c00ff solid;
+  border-bottom: 1px #130041 solid;
   color: #FFF7F7;
   text-transform: uppercase;
   font-size: 13px;
